@@ -72,8 +72,8 @@ Step14. click on debug and simulate using simulation
 
 ## STM 32 CUBE PROGRAM :
 ```python
-DEVELOPED BY : SANJAY M
-REGISTER NO  : 212223230187
+DEVELOPED BY : Samakash R S
+REGISTER NO  : 212223230182
 ```
 ```python
 #include "main.h"
